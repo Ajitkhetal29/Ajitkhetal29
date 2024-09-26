@@ -9,19 +9,29 @@ I am an aspiring web developer with a strong foundation in front-end and back-en
 
 ## Front-End Technologies:
 HTML
+
 CSS
+
 JavaScript
+
 React
+
 Angular
 
 ## Back-End Technologies:
+
 Python
+
 Django
+
 SQL
+
 MySQL
 
 ## Version Control:
+
 Git
+
 GitHub
 
 ## 🤝 Let's Connect!
