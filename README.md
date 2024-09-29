@@ -1,7 +1,7 @@
 ## Welcome to My Profile!
 
 🌟 About Me
-I am an aspiring web developer with a strong foundation in front-end and back-end technologies. With of professional experience as a software developer, I am passionate about creating dynamic and user-friendly applications. I specialize in React and Angular and am actively seeking opportunities to contribute to innovative web solutions.
+I am an aspiring web developer with a strong foundation in front-end and back-end technologies. With professional experience as a software developer, I am passionate about creating dynamic and user-friendly applications. I specialize in React and Angular and am actively seeking opportunities to contribute to innovative web solutions.
 
 
 
