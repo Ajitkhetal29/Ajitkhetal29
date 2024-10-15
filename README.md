@@ -15,6 +15,8 @@ CSS
 
 JavaScript
 
+Taliwand CSS
+
 React
 
 Angular
