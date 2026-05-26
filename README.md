@@ -1,42 +1,77 @@
-## Welcome to My Profile!
+# 🚀 Ajit Khetal
 
-🌟 About Me
+Full Stack Developer passionate about building scalable web and mobile applications with modern technologies and real-world business workflows.
 
-I am an aspiring web developer with a strong foundation in front-end and back-end technologies. With professional experience as a software developer, I am passionate about creating dynamic and user-friendly applications. I specialize in React and Angular and am actively seeking opportunities to contribute to innovative web solutions.
+## 🌟 About Me
 
+I specialize in building production-ready applications using Node.js, Express.js, Next.js, React, React Native, MongoDB, and TypeScript.
 
+Currently working on enterprise-grade CRM and operations platforms with experience in:
 
-## 💼 Skills
+* Scalable backend architecture
+* REST APIs
+* JWT Authentication & RBAC
+* Redis caching
+* Real-time systems with Socket.IO
+* Dockerized deployments
+* AWS EC2 hosting
+* CI/CD automation using GitHub Actions
 
-## Front-End Technologies:
-HTML
+I enjoy building clean, efficient, and scalable systems while continuously exploring modern software engineering practices.
 
-CSS
+---
 
-JavaScript
+# 💼 Tech Stack
 
-Taliwand CSS
+## Frontend
 
-React
+* React.js
+* Next.js
+* React Native
+* Redux Toolkit
+* Tailwind CSS
+* Material UI
 
-Angular
+## Backend
 
-## Back-End Technologies:
+* Node.js
+* Express.js
+* REST APIs
+* Socket.IO
 
-Python
+## Databases & Caching
 
-Django
+* MongoDB
+* Redis
 
-SQL
+## DevOps & Cloud
 
-MySQL
+* Docker
+* AWS EC2
+* GitHub Actions
+* CI/CD
 
-## Version Control:
+## Tools & Technologies
 
-Git
+* Git
+* GitHub
+* Postman
+* Mongoose
 
-GitHub
+---
 
-## 🤝 Let's Connect!
-I am eager to connect with like-minded professionals and explore opportunities in web development. Feel free to reach out on LinkedIn https://github.com/Ajitkhetal29 or check out my projects on GitHub https://www.linkedin.com/in/ajit-khetal-29081999ak/.
+# 🚀 Current Focus
 
+* Scalable Backend Systems
+* Full Stack Application Architecture
+* Cloud Deployment & DevOps
+* Real-Time Applications
+* Production-Ready Workflows
+
+---
+
+# 🤝 Let's Connect!
+
+🔗 LinkedIn: https://www.linkedin.com/in/ajit-khetal
+
+💻 GitHub: https://github.com/Ajitkhetal29
